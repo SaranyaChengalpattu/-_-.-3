@@ -1,0 +1,40 @@
+*{
+    background-color:#acd8df;
+    color: black;
+    font-weight: bol;
+}
+
+
+label{
+    font-size: 18px;
+}
+
+
+.container{
+    text-align: center;
+    margin-top: 200px;
+    
+}
+
+input{
+    border-color:black;
+    box-shadow: 0px 5px 10px black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+}
+
+
+.button{
+    background-color: #cab1d0;
+    color: black;
+    height: auto;
+    width:200px ;
+    
+    border-color: black;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.button:hover{
+    background-color: whitesmoke;
+}
